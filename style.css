@@ -1,0 +1,29 @@
+.Title {
+    width: 100%;
+    color:beige;
+    text-align: center;
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+
+}
+
+.col-4, .col-8 {
+    border:brown 1px solid;
+
+}
+
+.submit {
+    width:100%;
+
+}
+
+.search-history {
+    display: flex;
+    flex-direction: column;
+}
+
+#card {
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+}
